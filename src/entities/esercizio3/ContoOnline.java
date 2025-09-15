@@ -1,4 +1,4 @@
-package esercizio3;
+/*entities.esercizio3;
 
 public class ContoOnLine extends ContoCorrente {
     private double maxPrelievo;
@@ -22,4 +22,4 @@ public class ContoOnLine extends ContoCorrente {
 
     }
 
-}
+}*/

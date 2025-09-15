@@ -1,4 +1,4 @@
-package esercizio3;
+/*entities.esercizio3;
 
 public class ContoCorrente {
     private final int maxMovimenti = 50;
@@ -25,4 +25,4 @@ public class ContoCorrente {
 
     }
 
-}
+}*/
